@@ -1,0 +1,16 @@
+﻿body {
+    width: 100%;
+    height: calc(100vh - 64px);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+form {
+    border-radius: 20px;
+    padding: 50px 100px;
+}
